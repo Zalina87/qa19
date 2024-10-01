@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        int ticket_price = 13_676;
-        int mile_price = 20;
-        System.out.println(ticket_price / mile_price);
+        int ticketPrice = 13_676;
+        int milePrice = 20;
+        System.out.println(ticketPrice / mile_price);
 
 // Объявляете переменные для входных данных и
         // параметров программы: одну для хранения
